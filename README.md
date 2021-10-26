@@ -1,5 +1,7 @@
-https://dev.azure.com/chineduonyeoka/Space%20Game%20web%20Pipeline/_apis/build/status/chiscript.mslearn-tailspin-spacegame-web%20(1)?branchName=main
+
 # Contributing
+https://dev.azure.com/chineduonyeoka/Space%20Game%20web%20Pipeline/_apis/build/status/chiscript.mslearn-tailspin-spacegame-web%20(1)?branchName=main
+[![Build Status](https://dev.azure.com/chineduonyeoka/Space%20Game%20web%20Pipeline/_apis/build/status/chiscript.mslearn-tailspin-spacegame-web%20(1)?branchName=main)](https://dev.azure.com/chineduonyeoka/Space%20Game%20web%20Pipeline/_build/latest?definitionId=2&branchName=main)
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
 Contributor License Agreement (CLA) declaring that you have the right to, and actually do, grant us
